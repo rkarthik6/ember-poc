@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Sample1",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+    },
+    {
+      "title": "Sample Post",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "id": 2
+    },
+    {
+      "title": "Sample Post1",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "id": 3
+    }
+  ]
+}
